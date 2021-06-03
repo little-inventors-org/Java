@@ -1,2 +1,3 @@
 # Java
-This curriculum of 6 month Java Course.
+
+THIS REPO CODE OF ALL THE PROBLEMS THAT WE PRACTICE DURING THE CLASS.
